@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 
 @CucumberOptions(
-					features = "src/test/resources/hr/US305-GetSpeJobByID.feature",
+					features = "src/test/resources/hr",
 					glue = "com.noorteck.qa.steps",
 				
 					
